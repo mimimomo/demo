@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+background:url(../img/fd07877135cdc78b0ff55f95c32a0c3d.jpeg)
+}
+.left {
+	margin-top:100px;
+	margin-left:10px;
+	margin-right:300px;
+	padding-top:auto;
+	width:30%;
+	background:#FFF,opacity:0.5;
+	text-align:center;
+	font-size:24px;
+	
+
+}
+
+
